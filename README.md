@@ -35,6 +35,6 @@ Frontend assignment
 
 1. Run `npm run dev` to see the website which runs on `localhost:3000` port
 
-2. Deploy it on [Cyclic](https://www.cyclic.sh/)
+2. Deploy it on [Render](https://render.com/)
 
 # Thank You
